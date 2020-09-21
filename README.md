@@ -1,6 +1,11 @@
 # PortfolioWebsite
 Bartosz Tyński landing page. Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
+## TODO
+* polish version
+* experience section
+* descirebe technology stack
+
 ## Credits 
 [Miniport](https://html5up.net/miniport) by HTML5 UP (html5up.net | @ajlkn). Customized website template under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 * Images: [Unsplash](unsplash.com)
