@@ -2,6 +2,9 @@
 Bartosz Tyński landing page. Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 ## TODO
+* padding (in mobile version photo is too big, name looks ugly)
+* resume is not readible (hosting problem)
+* proofreading
 * edit bio
 * experience section
 * skills section
