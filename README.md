@@ -2,9 +2,12 @@
 Bartosz Tyński landing page. Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 ## TODO
-* polish version
+* edit bio
 * experience section
-* descirebe technology stack
+* skills section
+* polish version
+* describe technology stack
+* be more specific what do you want to do
 
 ## Credits 
 [Miniport](https://html5up.net/miniport) by HTML5 UP (html5up.net | @ajlkn). Customized website template under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
