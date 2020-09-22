@@ -6,7 +6,7 @@ Bartosz Tyński landing page. Feedback, bug reports, and comments are not only w
 * experience section
 * skills section
 * polish version
-* describe technology stack
+* technology stack (README)
 * be more specific what do you want to do
 
 ## Credits 
