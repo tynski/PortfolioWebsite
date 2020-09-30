@@ -2,7 +2,6 @@
 Bartosz Tyński landing page. Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 ## TODO
-* resume is sill not working on mobile
 * edit bio
 * experience section
 * skills section
@@ -10,7 +9,6 @@ Bartosz Tyński landing page. Feedback, bug reports, and comments are not only w
 * technology stack (README)
 * be more specific what do you want to do
 * host it on your own domain
-* html version of resume
 * page for each project
 
 ## Credits 
