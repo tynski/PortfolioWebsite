@@ -284,6 +284,25 @@
 			}
 		}
 	}
+				/* experience */
+
+				ul.experience {
+					margin-bottom: 0;
+					padding-left: 0;
+					
+					li {
+						display: inline;
+						padding-left: 0;
+						position: relative;
+						display: block;
+						text-decoration: none;
+						outline: 0;
+						font-weight: 600;
+						border-radius: 8px;
+						line-height: 2.5em;
+						padding: 0 1.25em;
+					}
+				}
 
 /* Row */
 
@@ -374,19 +393,9 @@
 
 /* Tables */
 
-	table {
-		width: 100%;
-
-		&.default {
-			width: 100%;
-
-			tr {
-				border-top: solid 1px #eee;
-
-				&:first-child {
-					border-top: 0;
-				}
-			}
+/* default */
+	table.experience {
+			width: 100%
 
 			td {
 				padding: 0.5em 1em 0.5em 1em;
@@ -396,6 +405,7 @@
 				text-align: left;
 				padding: 0.5em 1em 0.5em 1em;
 				font-weight: 600;
+				font-size: large;
 				margin: 0 0 1em 0;
 			}
 
@@ -403,7 +413,7 @@
 				background: #4f4f4f;
 				color: #fff;
 			}
-		}
+		
 	}
 
 /* Section/Article */
@@ -668,6 +678,10 @@
 			}
 		}
 	}
+/* About */
+	ul.about {
+		text-align: left;
+	}
 
 /* Box */
 
@@ -790,7 +804,7 @@
 
 	#nav {
 		background-color: #282828;
-		text-align: center;
+		text-align: right;
 		position: fixed;
 		left: 0;
 		top: 0;
