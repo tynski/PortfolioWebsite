@@ -1,12 +1,11 @@
 # PortfolioWebsite
-Bartosz Tyński landing page. Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Landing page of my modes self. The HTML was styled with css empowered by sass. Styling files are under **assets/sass** and **assests/css** directories.
+
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 ## TODO
-* edit bio
-* experience section
 * skills section
 * polish version
-* technology stack (README)
 * be more specific what do you want to do
 * host it on your own domain
 * page for each project
