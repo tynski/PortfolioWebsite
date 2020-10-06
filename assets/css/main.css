@@ -1259,22 +1259,29 @@ form ::-moz-focus-inner {
 
 /* Tables */
 /* default */
-table.experience {
-  width: 100% td;
-  width-padding: 0.5em 1em 0.5em 1em;
-}
-table.experience th {
-  text-align: left;
-  padding: 0.5em 1em 0.5em 1em;
-  font-weight: 600;
-  font-size: large;
-  margin: 0 0 1em 0;
-}
-table.experience thead {
-  background: #4f4f4f;
-  color: #fff;
-}
+/*
+	table.experience {
+			width: 100%
 
+			td {
+				padding: 0.5em 1em 0.5em 1em;
+			}
+
+			th {
+				text-align: left;
+				padding: 0.5em 1em 0.5em 1em;
+				font-weight: 600;
+				font-size: large;
+				margin: 0 0 1em 0;
+			}
+
+			thead {
+				background: #4f4f4f;
+				color: #fff;
+			}
+
+	}
+*/
 /* Section/Article */
 section, article {
   margin-bottom: 3em;
