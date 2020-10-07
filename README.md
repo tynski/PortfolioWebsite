@@ -8,7 +8,7 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * polish version
 * dream section
 * page for each project
-* prepare resume in HTML
+* remove project YAWK (too amteur)
 
 ## TODO
 * be more specific what do you want to do
@@ -16,7 +16,6 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * make it look more friendly, add emojis
 * add reinforcement learning to projects
 * add description to each project
-* add master and bachelor thesis
 
 
 ## Credits 
