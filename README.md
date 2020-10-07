@@ -3,12 +3,15 @@ Landing page of my modes self. The HTML was styled with `css` empowered by `sass
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-## TODO
+## Ideas
 * skills section
 * polish version
+* dream section
+* page for each project
+
+## TODO
 * be more specific what do you want to do
 * host it on your own domain
-* page for each project
 * make it look more friendly, add emojis
 
 
