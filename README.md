@@ -14,6 +14,8 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * be more specific what do you want to do
 * host it on your own domain
 * make it look more friendly, add emojis
+* add reinforcement learning to projects
+* add description to each project
 
 
 ## Credits 
