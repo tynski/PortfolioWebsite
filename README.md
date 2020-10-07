@@ -1,5 +1,5 @@
 # PortfolioWebsite
-Landing page of my modes self. The HTML was styled with `css` empowered by `sass`. Styling files are under `assets/sass` and `assests/css` directories.
+Landing page of my modes self. The `HTML` was styled with `CSS` empowered by `SASS`. Styling files are under `assets/sass` and `assests/css` directories.
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
@@ -8,6 +8,7 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * polish version
 * dream section
 * page for each project
+* prepare resume in HTML
 
 ## TODO
 * be more specific what do you want to do
