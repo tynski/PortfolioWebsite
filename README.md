@@ -16,6 +16,7 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * make it look more friendly, add emojis
 * add reinforcement learning to projects
 * add description to each project
+* add master and bachelor thesis
 
 
 ## Credits 
