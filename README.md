@@ -9,6 +9,7 @@ Feedback, bug reports, and comments are not only welcome, but strongly encourage
 * dream section
 * page for each project
 * remove project YAWK (too amteur)
+* documents should not be stored in repo
 
 ## TODO
 * be more specific what do you want to do
