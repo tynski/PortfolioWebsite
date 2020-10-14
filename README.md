@@ -1,5 +1,5 @@
 # PortfolioWebsite
-Landing page of my modes self. The `HTML` was styled with `CSS` empowered by `SASS`. Styling files are under `assets/sass` and `assests/css` directories. Unfortunately it is just static side, so to make pdfs accessbile in every device I have to put them in cloud. For a given moment it is a Dropbox, until I came up with better solution.
+Landing page of my modes self. The `HTML` was styled with `CSS` empowered by `SASS`. Styling files are under `assets/sass` and `assests/css` directories. Unfortunately it is just static side, so to make pdfs accessbile in every device I have to put them in cloud. For a given moment it is a Dropbox, until I get a server.
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
